@@ -1,0 +1,38 @@
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.menu .link {
+    color: #2E2F42;
+}
+[href="info@devstudio.com"] {
+    color:#434455 ;
+}
+[href="tel+110001111111"] {
+    color:#434455 ;
+}
+.list .link .menu-link .idlink {
+    color:#4D5AE5;
+}
+.menu-link:hover {
+    color: #F4F4FD;
+    background-color: #4D5AE5;
+}
+.text {
+    color: #434455;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 24px;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.game {
+    color: #E7E9FC;
+}
